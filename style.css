@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+h1{
+    color: rgb(146, 20, 20);
+    font-size: 50px;
+    margin-bottom: 0;
+
+}
+h2{
+    color: rgb(116, 143, 202);
+    font-size: 40px;
+
+}
+input{
+    height: 30px;
+    width: 250px;
+}
